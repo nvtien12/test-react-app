@@ -1,0 +1,10 @@
+
+.box_pro_engine {
+    float: left;
+    background-image: url('/public/assets/bg.jpg');   
+}
+.engine {
+    width: 88%;
+    padding: 10px 20px;
+
+}

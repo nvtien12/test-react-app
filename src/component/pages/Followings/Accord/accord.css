@@ -1,0 +1,145 @@
+.img{
+    width: 100%;
+    height: 30%;
+    
+}
+.section-holder img {
+    font-size: 0;
+}
+
+element.style {
+    opacity: 1;
+    transform: translate(0px, 0px);
+}
+.porduct-img{
+    display: block;
+    margin: auto;
+    width: 50px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.text-box p {
+    
+    line-height: 1.5;
+    color: #fff;
+    margin-top: 5px;
+    margin-left: 10px;
+    letter-spacing: .5px;
+    font-size: 1rem;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.img-backgound{
+    text-align: center;
+    opacity: 1;
+    transform: translate(0px, 0px);
+    background-image: url('/public/assets/background-full.jpg'); 
+}
+.img-backgound :focus, :hover, a {
+    outline: 0!important;
+}
+.img-backgound :focus, :hover {
+    text-decoration: none!important;
+}
+.img-backgound img{
+    display: block;
+    margin: auto;
+    width: 22rem;
+    height: 17rem;
+    padding-top: 20px;
+}
+.img-backgound h5 {
+    color: green;
+    font-size: 25px;
+    margin-top: 10 px;
+}
+
+
+.text-box p {
+    letter-spacing: .3px;
+    margin-top: 7px;
+} 
+
+
+.text-box p {
+    margin: 0;
+    line-height: 1.5;
+    color: #fff;
+    margin-top: 10px;
+    letter-spacing: .5px;
+    
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.text-box h3 {
+    letter-spacing: 1px;
+    margin-top: 8px;
+}
+
+
+.text-center {
+    text-align: center;
+}
+.img-backgound p{
+    margin: 0;
+    color: #fff;
+    font-weight: 400;
+    line-height: 1.5 ;
+    font-size: 12px;
+    margin-top: 11px;
+    letter-spacing: 1.5px;
+}
+.img-backgound h3 {
+    margin: 0;
+    color: #fff;
+    font-weight: 600;
+    font-size:14px ;
+    line-height: 1.5;
+}
+
+
+@media (min-width: 62em){
+    .img-backgound img{
+        display: block;
+        margin: auto;
+        width: 770px;
+        height: 450px;
+        padding-top: 20px;
+    }
+
+    .img-backgound h3  {
+        margin: 0;
+        color: #fff;
+        font-weight: 600;
+        line-height: 1.3;
+        font-size: 13 px;
+        margin-top: 11px;
+        letter-spacing: 1px;
+        margin-top: 8px;
+    }
+    .img-backgound p{
+        margin: 0;
+        color: #fff;
+        font-weight: 300;
+        line-height: 1.3;
+        font-size: 12px;
+        margin-top: 11px;
+        letter-spacing: 1.5px;
+    }
+
+
+.img-backgound h5 {
+    font-size: 25px;
+    margin-top: 10 px;
+}
+
+}

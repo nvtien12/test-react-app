@@ -1,0 +1,83 @@
+{
+   "honda": [
+
+        {
+        "id": 1,
+        "title": "Honda Civic Type R",
+        "price":"Giá từ :",
+        "description": "BỨC TỐC VƯỢT ĐỈNH.",
+        "image": "/assets/civic type R.png",
+        "to":"./following/civic",
+        "rating": {
+          "rate": 2.9,
+          "count": 500
+        }
+        },
+        {
+          "id": 2,
+          "title": "Honda Accord",
+          "price":"Giá từ: 1.319.000.000 vnđ",
+          "description": "GIÁC QUAN KHAI PHÁ KHÍ CHẤT DẪN ĐẦU.",
+          "image": "/assets/accord.png",
+          "to":"./following/accord",
+          "background-img":"./assets/background-full.jpg",
+          "rating": {
+            "rate": 3.9,
+            "count": 500
+          }
+        },
+        {
+          "id": 3,
+          "title": "Honda Civic ",
+          "price": "Giá từ: 730.000.000 vnđ",
+          "description": "KIẾN TẠO CHUẨN MỰC HOÀN HẢO.",
+          "image": "/assets/civic.png",
+          "to":"./following/civic",
+          
+          "rating": {
+            "rate": 4.1,
+            "count": 400
+          }
+        },
+        {
+          "id": 4,
+          "title": "Honda Crv",
+          "price":"Giá từ: 998.000.000 vnđ",
+          "description": "KHAI PHÁ GIÁC QUAN THỨ 6.",
+          "image": "/assets/crv.png",
+          "background-image": "./assets/crv/wake-up-senses.jpg",
+         
+          "to":"./following/crv",
+          "rating": {
+            "rate": 4.7,
+            "count": 500
+          }
+        },
+        {
+          "id": 5,
+          "title": "Honda Hrv",
+          "price": "Giá từ: 820.000.000 vnđ",
+          "description": "SẴN SÀNG CHO MỌI BẤT NGỜ.",
+          "image": "/assets/hrv.png",
+          "to":"./following/hrv",
+          "rating": {
+            "rate": 2.1,
+            "count": 430
+          }
+        },
+        {
+          "id": 6,
+          "title": "Honda City",
+          "price": "Giá từ: 529.000.000 vnđ",
+          "description": "MẠNH MẼ TRẢI LỐI THÀNH CÔNG.",
+          "image": "/assets/city.png",
+          "to":"./following/city",
+          "rating": {
+            "rate": 4.6,
+            "count": 400
+          }
+        }
+        
+       
+      ]
+}
